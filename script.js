@@ -1,4 +1,4 @@
-let element = document.getElementById("line");
+let element = document.getElementById("level");
 let traversal = element;
 let ct = 0;
 
